@@ -13,7 +13,7 @@ Flask-WTF==0.14.2
 gunicorn==19.9.0
 idna==2.10
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 Mako==1.1.0
 MarkupSafe==1.1.1
 metadata-parser==0.10.4
